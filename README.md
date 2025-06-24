@@ -1,5 +1,14 @@
 # Branch-expansion-ml-golomt-bank-mongolia
 ML-based location optimization for Golomt bank branch placement in Mongolia using public data
+# Data Sources
+- Population & workforce statistics by district (soum = districts)
+- Loan, deposit, and transaction volumes
+- Account and branch counts across all banks
+- Golomt Bank’s existing branch network
+- Company registration data
+- Loan delinquency and overdue ratios
+- Custom-defined clusters of similar districts (for intra-cluster ranking)
+
 # Methodology
 1) Feature Engineering
    - Underserved demand indicators (e.g., low account penetration per capita)
