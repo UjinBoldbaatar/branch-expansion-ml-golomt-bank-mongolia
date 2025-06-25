@@ -4,7 +4,7 @@ ML-based location optimization for Golomt bank branch placement in Mongolia usin
 - Population & workforce statistics by district (soum = districts)
 - Loan, deposit, and transaction volumes
 - Account and branch counts across all banks
-- Golomt Bank’s existing branch network
+- Golomt Bank’s existing branch locations
 - Company registration data
 - Loan delinquency and overdue ratios
 - Custom-defined clusters of similar districts (for intra-cluster ranking)
